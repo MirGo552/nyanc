@@ -2,8 +2,18 @@
     "name": "Rayanks",
     "symbol": "RAYANKS",
     "description": "rayanks token",
-    "uri": "https://github.com/MirGo552/nyanc/blob/main/token-metadata.json",
+    "uri": "https://raw.githubusercontent.com/MirGo552/nyanc/main/token-metadata.json",
     "image": "https://i.postimg.cc/vT1jRWWZ/Xlogo.jpg",
     "external_url": "https://votre-site.com",
-    "attributes": []
-}
+    "attributes": [],
+    "twitter": "https://twitter.com/votre_compte_twitter",
+    "telegram": "https://t.me/votre_groupe_telegram",
+    "links": {
+        "twitter": "https://twitter.com/votre_compte_twitter",
+        "telegram": "https://t.me/votre_groupe_telegram"
+    },
+    "extensions": {
+        "twitter": "https://twitter.com/votre_compte_twitter",
+        "telegram": "https://t.me/votre_groupe_telegram"
+    }
+} 
