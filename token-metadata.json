@@ -1,19 +1,20 @@
 {
-    "name": "Rayanks",
-    "symbol": "RAYANKS",
-    "description": "rayanks token",
+    "name": "Nyan Cat Army",
+    "symbol": "NYAN",
+    "description": "Nyan Cat flies forever!",
     "uri": "https://raw.githubusercontent.com/MirGo552/nyanc/main/token-metadata.json",
     "image": "https://i.postimg.cc/vT1jRWWZ/Xlogo.jpg",
-    "external_url": "https://votre-site.com",
+    "external_url": "https://nyan.ovh",
     "attributes": [],
-    "twitter": "https://twitter.com/votre_compte_twitter",
-    "telegram": "https://t.me/votre_groupe_telegram",
+    "website": "https://nyan.ovh",
+    "twitter": "https://x.com/NyanCat_Army",
+    "telegram": "https://t.me/NyanCatArmy",
     "links": {
-        "twitter": "https://twitter.com/votre_compte_twitter",
-        "telegram": "https://t.me/votre_groupe_telegram"
+        "twitter": "https://x.com/NyanCat_Army",
+        "telegram": "https://t.me/NyanCatArmy"
     },
     "extensions": {
-        "twitter": "https://twitter.com/votre_compte_twitter",
-        "telegram": "https://t.me/votre_groupe_telegram"
+        "twitter": "https://x.com/NyanCat_Army",
+        "telegram": "https://t.me/NyanCatArmy"
     }
 } 
